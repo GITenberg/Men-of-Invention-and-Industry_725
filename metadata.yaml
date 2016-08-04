@@ -1,0 +1,35 @@
+_repo: Men-of-Invention-and-Industry_725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+description: ''
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- Biography'
+- !lcsh 'Industrial arts -- Biography'
+- !lcc 'T'
+- GITenberg
+tableOfContents: 'Phineas Pett : beginnings of English shipbuilding -- Francis Pettit
+  Smith, practical introducer of the screw propeller -- John Harrison, inventor of
+  the marine chronometer -- John Lombe, introducer of the silk industry into England
+  -- William Murdock, his life and inventions -- Frederick Koenig, inventor of the
+  steam-printing machine -- The Walters of the "Times" : invention of the Walter press
+  -- William Clowes : book-printing by steam -- Charles Bianconi : a lesson of self-help
+  in Ireland -- Industry in Ireland : through Connaught and Ulster to Belfast -- Ship-building
+  in Belfast / by E.J. Harland, engineer and shipbuilder -- Astronomers and students
+  in humble life : a new chapter in the "Pursuit of knowledge under difficulties".'
+title: Men of Invention and Industry
+url: http://www.gutenberg.org/ebooks/725
